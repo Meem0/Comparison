@@ -1,9 +1,9 @@
 ############
 # My stuff #
 ############
-.txt
-.bat
-.dat
+*.txt
+*.bat
+*.dat
 ############
 
 *.class
